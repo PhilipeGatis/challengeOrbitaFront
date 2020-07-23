@@ -16,10 +16,6 @@
  - `Yarn start`
 
     Este comando roda a aplicação em modo de desenvolvimento. Abra o browser no endereço http://localhost:3000 após rodar o comando.
-    
- - `Yarn test`
-
-    Este comando roda os testes unitários do sistema.
 
 #### Arquitetura
  Este projeto utliza:
